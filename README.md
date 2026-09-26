@@ -5,3 +5,5 @@ Hello! I am a student at REVA University currently pursuing my degree in AI & Ma
 
  Project Overview
 This repository contains my coursework and hands-on exercises for the GitHub module. Through this repository, I am demonstrating essential version control practices, including setting up repository structures, making descriptive commits, and managing project documentation.
+Projects
+- GitHub Fundamentals: Working on version control, branching, pull requests, and GitHub Pages.
